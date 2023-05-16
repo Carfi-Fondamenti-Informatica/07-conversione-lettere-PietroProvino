@@ -12,6 +12,6 @@ int main() {
         cout << Trasforma_Maiusc(a);
     }
     else{
-        cout << "errore";
+        cout << "Errore";
     }
 }
