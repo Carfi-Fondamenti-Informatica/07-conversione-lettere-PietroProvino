@@ -8,7 +8,7 @@ int main() {
     cin >> b;
     a=b;
     if(verifica_lettera(a) == true ){
-        cout << "Vero";
+        cout << "Vero" << endl;
         cout << Trasforma_Maiusc(a);
     }
     else{
