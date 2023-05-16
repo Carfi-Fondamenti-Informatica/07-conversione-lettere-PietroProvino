@@ -8,10 +8,10 @@ int main() {
     cin >> b;
     a=b;
     if(verifica_lettera(a) == true ){
-        cout << "Vero" << "";
+        cout << "Vero";
         cout << Trasforma_Maiusc(a);
     }
     else{
-        cout << "Errore";
+        cout << "errore";
     }
 }
